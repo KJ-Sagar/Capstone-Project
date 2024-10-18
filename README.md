@@ -40,7 +40,7 @@ This project focuses on developing a drone tailored for emergency services, with
 
 The drone is equipped with multiple sensors, GPS, and telemetry for autonomous navigation and real-time data transmission. It is designed to operate efficiently in both urban disaster environments and remote areas.
 
-![Drone System Architecture](Methodology.png)
+![Drone System Architecture](Capstone-Project/Methodology.png)
 
 ## Use Cases
 
